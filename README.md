@@ -16,7 +16,6 @@
 ---------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjeansilva&show_icons=true&theme=radical)
 
-![Jean Silva GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zjeansilva&layout=compact&langs_count=7&theme=dracula)
 
 <!--
 **zjeansilva/zjeansilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
