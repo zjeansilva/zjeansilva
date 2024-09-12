@@ -8,10 +8,11 @@
 ---------
 ## Minhas Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px">
 
 ---------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjeansilva&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjeansilva&show_icons=true&theme=radical)
 
 <!--
 **zjeansilva/zjeansilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
