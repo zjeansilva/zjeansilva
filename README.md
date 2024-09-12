@@ -8,9 +8,10 @@
 ---------
 ## Minhas Tecnologias
 
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px">
-
+</p>
 ---------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjeansilva&show_icons=true&theme=radical)
 
